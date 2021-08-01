@@ -1,0 +1,74 @@
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\Blog Server.exe
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\Blog Server.deps.json
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\Blog Server.runtimeconfig.json
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\Blog Server.runtimeconfig.dev.json
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\Blog Server.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\Blog Server.pdb
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\FluentMigrator.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\FluentMigrator.Abstractions.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\FluentMigrator.Extensions.Oracle.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\FluentMigrator.Extensions.Postgres.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\FluentMigrator.Extensions.SqlAnywhere.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\FluentMigrator.Extensions.SqlServer.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Core.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Db2.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Firebird.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Hana.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.MySql.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Oracle.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Postgres.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Redshift.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.SqlAnywhere.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.SQLite.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.SqlServer.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.SqlServerCe.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\System.Data.SqlServerCe.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\de-DE\FluentMigrator.Abstractions.resources.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\homeworkcnn5\BlogClient\Blog Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\homeworkcnn5\BlogClient\Blog Server\obj\Debug\netcoreapp3.1\Blog Server.csproj.AssemblyReference.cache
+H:\homeworkcnn5\BlogClient\Blog Server\obj\Debug\netcoreapp3.1\Blog Server.AssemblyInfoInputs.cache
+H:\homeworkcnn5\BlogClient\Blog Server\obj\Debug\netcoreapp3.1\Blog Server.AssemblyInfo.cs
+H:\homeworkcnn5\BlogClient\Blog Server\obj\Debug\netcoreapp3.1\Blog Server.csproj.CoreCompileInputs.cache
+H:\homeworkcnn5\BlogClient\Blog Server\obj\Debug\netcoreapp3.1\Blog Server.csproj.CopyComplete
+H:\homeworkcnn5\BlogClient\Blog Server\obj\Debug\netcoreapp3.1\Blog Server.dll
+H:\homeworkcnn5\BlogClient\Blog Server\obj\Debug\netcoreapp3.1\Blog Server.pdb
+H:\homeworkcnn5\BlogClient\Blog Server\obj\Debug\netcoreapp3.1\Blog Server.genruntimeconfig.cache
