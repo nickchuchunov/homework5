@@ -2265,11 +2265,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\homeworkcnn5 — копия\\BlogClient\\BlogClient\\BlogClient.csproj",
+      "projectUniqueName": "H:\\homeworkcnn5\\BlogClient\\BlogClient\\BlogClient.csproj",
       "projectName": "BlogClient",
-      "projectPath": "H:\\homeworkcnn5 — копия\\BlogClient\\BlogClient\\BlogClient.csproj",
+      "projectPath": "H:\\homeworkcnn5\\BlogClient\\BlogClient\\BlogClient.csproj",
       "packagesPath": "C:\\Users\\chuch\\.nuget\\packages\\",
-      "outputPath": "H:\\homeworkcnn5 — копия\\BlogClient\\BlogClient\\obj\\",
+      "outputPath": "H:\\homeworkcnn5\\BlogClient\\BlogClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -2292,8 +2292,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "H:\\homeworkcnn5 — копия\\BlogClient\\Blog Server\\Blog Server.csproj": {
-              "projectPath": "H:\\homeworkcnn5 — копия\\BlogClient\\Blog Server\\Blog Server.csproj"
+            "H:\\homeworkcnn5\\BlogClient\\Blog Server\\Blog Server.csproj": {
+              "projectPath": "H:\\homeworkcnn5\\BlogClient\\Blog Server\\Blog Server.csproj"
             }
           }
         }

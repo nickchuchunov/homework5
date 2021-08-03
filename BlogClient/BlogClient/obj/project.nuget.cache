@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NN2ZLTjbFf8UtJ2dkbRr8tN9755Rhs0jUwKTpkO7m3XixLYzmCs7eWGsqsNV6HVhnYJOY0+1iiHGNh+j8vUsqA==",
+  "dgSpecHash": "iwAFWBbG7pB+veZS4hmY5GOEHMT6+v0Ganwgb/NERlebmMzB8guI20B7Flg8sDN1gHtJtq2TrJBWk702RXvJnw==",
   "success": true,
-  "projectFilePath": "H:\\homeworkcnn5 — копия\\BlogClient\\BlogClient\\BlogClient.csproj",
+  "projectFilePath": "H:\\homeworkcnn5\\BlogClient\\BlogClient\\BlogClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chuch\\.nuget\\packages\\fluentmigrator\\3.2.17\\fluentmigrator.3.2.17.nupkg.sha512",
     "C:\\Users\\chuch\\.nuget\\packages\\fluentmigrator.abstractions\\3.2.17\\fluentmigrator.abstractions.3.2.17.nupkg.sha512",

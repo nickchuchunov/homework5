@@ -12,27 +12,24 @@ namespace BlogClient
     {
        public HttpResponse() { }
 
-      public async Task<ForDatabase> ApplyingDatabaseMetod(IList<ForDatabase> forDatabases)
+      public async Task ApplyingDatabaseMetod(string file)
 
         {
 
 
-             for  (int i=0; i< forDatabases.Count; i++) 
-            {
-                string Database = forDatabases[i].UserId.ToString();
-                string Database1 = forDatabases[i].Id.ToString();
-                string Database2 = forDatabases[i].Title;
-                string Database3 = forDatabases[i].Body;
+             
+           
+                
 
-                string file = "UserId: " + Database + "Id: " + Database1 + "Title: " + Database2 + "Body " + Database3;
-                 File.AppendAllLines("FileBlog.txt", new string[] { file });
+                
+             File.AppendAllLines("FileBlog.txt", new string[] { file });
 
 
-            }
+            
 
 
 
-            return null;
+           
 
 
         }
