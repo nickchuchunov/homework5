@@ -5,4 +5,15 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="FluentMigrator" Version="3.2.17" />
+    <PackageReference Include="FluentMigrator.Runner" Version="3.2.17" />
+    <PackageReference Include="FluentMigrator.Runner.SQLite" Version="3.2.17" />
+    <PackageReference Include="System.Data.SQLite.Core" Version="1.0.114.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Blog Server\Blog Server.csproj" />
+  </ItemGroup>
+
 </Project>
